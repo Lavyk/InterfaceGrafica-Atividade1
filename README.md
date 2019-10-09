@@ -1,8 +1,8 @@
 # Interface Gráfica - Atividade - 1
 #### Alunos:
 - Lavyk Soares
-- Danilo
-- Andécio
+- Danilo de Souza
+- Andécio Araújo
 
 #### Elaborar uma aplicação que possua as seguintes características:
 - Possua uma tela fixa de 400x400px
